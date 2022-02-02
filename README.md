@@ -1,14 +1,6 @@
 # Simple word learner
 One of my training pet-projects.
-## Training skills
-    * MVVM
-    * Activities
-    * Fragments
-    * RecyclerView
-    * Data classes
-    * Lifecycles + saving state
-    * ViewModel
-## What this project about
+## What is the project about
 It's pretty simple app where you can learn new words and add your own words.
 
 App contains 5 screens:
@@ -18,6 +10,9 @@ App contains 5 screens:
 4. List of already known words.
 5. List of words which user wants to learn.
 
+## Technology stack
+A little explanation of project:
+
 | Element | I use |
 |:-------:|:-----:|
 | Architecture | MVVM |
@@ -26,3 +21,12 @@ App contains 5 screens:
 | Lists | RecyclerView  |
 | Model of word | Data class |
 | Saving state | ViewModel + Bundle |
+
+## Training skills
+    * MVVM
+    * Activities
+    * Fragments
+    * RecyclerView
+    * Data classes
+    * Lifecycles + saving state
+    * ViewModel
