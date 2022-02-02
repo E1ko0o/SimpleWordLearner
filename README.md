@@ -7,8 +7,8 @@ App contains 5 screens:
 1. Learn words
 2. Add new word.
 3. List of all words.
-4. List of already known words.
-5. List of words which user wants to learn.
+4. List of already learned words.
+5. List of learning words.
 
 ## Technology stack
 A little explanation of project:
@@ -21,6 +21,9 @@ A little explanation of project:
 | Lists | RecyclerView  |
 | Model of word | Data class |
 | Saving state | ViewModel + Bundle |
+| DB and API | [WordsAPI](https://www.wordsapi.com/ "more info") |
+| Network requests | OkHttp3 |
+| JSON + ???GSON??? | ??? |
 
 ## Training skills
     * MVVM

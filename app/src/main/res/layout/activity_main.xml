@@ -15,4 +15,34 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button
+        android:id="@+id/list_all_btn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/all_words_btn"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/list_learned_btn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/list_learned_btn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/learned_words_btn"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/list_learning_btn"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/list_all_btn" />
+
+    <Button
+        android:id="@+id/list_learning_btn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/learning_words_btn"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/list_learned_btn" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
