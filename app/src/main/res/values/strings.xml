@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">SimpleWordLearner</string>
-    <string name="all_words_btn">All words</string>
-    <string name="learned_words_btn">Learned words</string>
-    <string name="learning_words_btn">Learning words</string>
+    <string name="learned_words">Learned words</string>
+    <string name="learning_words">Learning words</string>
+    <string name="learn_words">Learn words</string>
+    <string name="got_it">Got it</string>
+    <string name="missed_it">Missed it</string>
+    <string name="photo_of_word">Photo of word</string>
+    <string name="show_image">Show image</string>
+    <string name="hide_image">Hide image</string>
+    <string name="show_translate">Show translate</string>
+    <string name="hide_translate">Hide translate</string>
+    <string name="copy">Copy</string>
+    <string name="done">Done!</string>
+    <string name="error">Error</string>
 </resources>

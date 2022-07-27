@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/slava/Desktop/SimpleWordLearner/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/slava/Desktop/SimpleWordLearner/app/src/main/res/layout/fragment_image.xml" value="0.1" />
+        <entry key="..\:/Users/slava/Desktop/SimpleWordLearner/app/src/main/res/layout/fragment_learn_word.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/slava/Desktop/SimpleWordLearner/app/src/main/res/layout/fragment_learn_words.xml" value="0.22" />
+        <entry key="..\:/Users/slava/Desktop/SimpleWordLearner/app/src/main/res/layout/fragment_learned_words.xml" value="0.1" />
+        <entry key="..\:/Users/slava/Desktop/SimpleWordLearner/app/src/main/res/layout/fragment_learning_words.xml" value="0.1" />
+        <entry key="..\:/Users/slava/Desktop/SimpleWordLearner/app/src/main/res/menu/bottom_nav_menu.xml" value="0.365625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.16197916666666667" />
         <entry key="app/src/main/res/layout/fragment_learn_word.xml" value="0.1" />
       </map>

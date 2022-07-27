@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuLearnWords"
+        android:title="@string/learn_words" />
+
+    <item android:id="@+id/menuLearningWords"
+        android:title="@string/learning_words" />
+
+    <item android:id="@+id/menuLearnedWords"
+        android:title="@string/learned_words" />
+
+</menu>
